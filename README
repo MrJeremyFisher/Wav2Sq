@@ -1,0 +1,3 @@
+Quick and dirty script to convert generic multitracks to a format and naming scheme supported by the 
+Allen and Heath SQ series SQDrive playback functionality. See A&H documentation on foldering to get the
+console to recognize the files the script puts out.
